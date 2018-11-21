@@ -1,0 +1,93 @@
+.title {
+    font-size: 50px;
+    text-align:center;
+    font-family: 'Satisfy', cursive;
+    color: white ;
+    border: solid 5px #EECA95;
+    box-shadow: 5px 5px lightyellow, 10px 11px lightblue;
+    background: linear-gradient(to right, lightgreen,#D5B991,purple,lightpink);
+    transition: color 1s, background 2s;
+    text-shadow: 3px 3px purple;
+    letter-spacing: 3.5px;
+}
+
+h1,p {
+    color:white;
+    text-align:center;
+}
+.title:hover {
+    color:lightblue;
+    background:lightyellow;
+}
+
+body {
+    background: linear-gradient(to bottom, black,black,black,white,white,pink);
+}
+
+img {
+    display:block;
+    margin: auto;
+}
+
+iframe {
+    width:560px;
+    height:315px;
+    transform: translateX(385px);
+    margin: auto;
+    box-shadow: 2px 2px 2px grey,4px 2px pink;
+    border: solid 3px lightblue;
+}
+
+.song{
+    font-weight:bold;
+    text-shadow: 3px 4px 4px #4D361D;
+    color:pink;
+    font-family: 'Special Elite', cursive;
+    font-size: 50px;
+}
+
+
+.clothes {
+    font-family: 'Abril Fatface', cursive;
+    color:#46A7BF;
+    letter-spacing: 2px;
+    font-size: 40px;
+    text-shadow: 2px 1px purple;
+    font-weight:bold;
+}
+
+.imgthree {
+    margin: auto;
+    width:400px;
+    border: solid 5px lightyellow;
+    box-shadow: 4px 5px lightblue;
+}
+
+.actor {
+    text-align:center;
+    font-family: 'Shadows Into Light Two', cursive;
+    color:#451D4D;
+    font-weight:bold;
+    font-size:50px;
+}
+
+.imgfour {
+    margin: auto;
+    width: 300px;
+}
+
+.instagram {
+    font-size:50px;
+    color:#AD6298;
+    text-shadow: 2px 2px 1px black;
+    font-family: 'Fredericka the Great';
+    font-weight:bold;
+}
+
+.imgfive {
+    margin:auto;
+    width:400px;
+    transform: rotate(10deg);
+}
+
+
